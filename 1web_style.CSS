@@ -114,7 +114,7 @@
 /*/////////////////////////////////////////*/
 .home-parent{
     height: 100vh;
-    background-image:  url(../website1/web_img/bg1.jpg);
+    background-image:  url(web_img/bg1.jpg);
 }
 .home-overlay{
     position: absolute;
@@ -343,7 +343,7 @@ transform: translate(-50%,-50%);
 /*///////////////////////////////////////////////*/
 .record-cnt{
     height: 300px;
-    background-image: url(../website1/web_img/bg2.jpg);
+    background-image: url(web_img/bg2.jpg);
     background-attachment: fixed;
 }
 .record-parent{
@@ -421,7 +421,7 @@ transform: translate(-50%,-50%);
 /*///////////////////////////////////////////////////*/
 .work-cnt{
     height: 300px;
-    background-image: url(../website1/web_img/bg3.jpg);
+    background-image: url(web_img/bg3.jpg);
     background-attachment: fixed;
 }
 .work-parent{
