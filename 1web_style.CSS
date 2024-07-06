@@ -114,7 +114,7 @@
 /*/////////////////////////////////////////*/
 .home-parent{
     height: 100vh;
-    background-image: url(website1/web_img/bg1.jpg);
+    background-image:  url(../website1/web_img/bg1.jpg);
 }
 .home-overlay{
     position: absolute;
